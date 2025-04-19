@@ -362,7 +362,7 @@ background-color: var(--main-color);
     padding-bottom: var(--section-padding);
     height: 600px;
     position: relative;
-    background-image: url("/imgs/website-design.jpeg");
+    background-image: url("../imgs/website-design.jpeg");
     background-size: cover;
     display: flex;
     align-items: center;
@@ -578,7 +578,7 @@ text-transform: uppercase;
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
     text-align: center;
-    background-image: url(".../imgs/pawel-czerwinski-QRghuf5yTA4-unsplash.jpg");
+    background-image: url("../imgs/pawel-czerwinski-QRghuf5yTA4-unsplash.jpg");
     background-size: cover;
     position: relative;
 }
@@ -795,7 +795,7 @@ margin-bottom: 50px;
 .qoute{
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url(".../imgs/background.jpg");
+    background-image: url("../imgs/background.jpg");
     background-size: cover;
     position: relative;
     text-align: center;
@@ -933,7 +933,7 @@ color: white;
 .subscribe {
 padding-top: var(--section-padding);
 padding-bottom: var(--section-padding);
-background-image: url(".../imgs/subscribe.jpg");
+background-image: url("../imgs/subscribe.jpg");
 background-size: cover;
 position: relative;
 color: white;
@@ -1119,7 +1119,7 @@ color: #777;
     .footer{
  padding-top: calc(var(--section-padding)/2);
  padding-bottom: calc(var(--section-padding)/2);
- background-image: url(".../imgs/footer.jpg");
+ background-image: url("../imgs/footer.jpg");
  background-size: cover;
  position: relative;
  color: white;
